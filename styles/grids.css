@@ -1,0 +1,69 @@
+.grid-container{
+  display: grid;
+  gap: 15px;
+ max-width: auto;
+ margin-top: 43;
+
+}
+
+
+.grid-1{
+  background-image: url(https://www.apple.com/v/home/bd/images/heroes/back-to-school-2023/hero_bts2023_startframe__f787lg06y3ue_medium.jpg);
+  height: 615px;
+  object-fit: cover;
+  cursor: pointer;
+  
+}
+
+.content {
+  text-align: center;
+  margin-top: 75px;
+  
+}
+
+.heading, .subheading, .links {
+  margin: 0 auto;
+}
+
+.heading{
+  font-size: 48px;
+  display: block;
+  max-width: 450px;
+  
+}
+
+.content-2 {
+  text-align: center;
+  margin-top: 75px;
+  color: white;
+}
+
+.subheading {
+  font-size: 24px;
+}
+
+.links{
+font-size: 19px;
+}
+
+.grid-2 {
+  background-image: url(https://www.apple.com/v/home/bd/images/heroes/iphone-14-pro/hero_iphone14pro_spring__9xo85pm6sbmm_medium.jpg);
+  height: 615px;
+  object-fit: cover;
+}
+
+.grid-3 {
+  background-image: url(https://www.apple.com/v/home/bd/images/heroes/iphone-14/hero_iphone14_yellow__eun20sn4imi6_medium.jpg);
+  height: 615px;
+  object-fit: cover;
+
+}
+
+/*bottom 6 grids*/
+
+.bottom-grid-container {
+display: grid;
+grid: 50px 50px 50px / 513.5px 513.5px;
+}
+  
+

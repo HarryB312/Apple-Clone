@@ -1,0 +1,19 @@
+.links {
+  text-decoration: none;
+  color: rgb(0, 102, 204);
+}
+
+.links:visited {
+  color: rgb(0, 102, 204);
+  
+}
+
+.links:hover {
+  text-decoration: underline;
+}
+
+.bottom-text {
+  color: grey;
+  font-size: 12px;
+  background-color: rgb(237, 237, 237);
+}
