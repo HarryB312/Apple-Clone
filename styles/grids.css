@@ -10,8 +10,9 @@
 .grid-1{
   background-image: url(https://www.apple.com/v/home/bd/images/heroes/back-to-school-2023/hero_bts2023_startframe__f787lg06y3ue_medium.jpg);
   height: 615px;
-  object-fit: cover;
+  object-fit: fill;
   cursor: pointer;
+  background-repeat: no-repeat;
   
 }
 
@@ -50,13 +51,14 @@ font-size: 19px;
   background-image: url(https://www.apple.com/v/home/bd/images/heroes/iphone-14-pro/hero_iphone14pro_spring__9xo85pm6sbmm_medium.jpg);
   height: 615px;
   object-fit: cover;
+  background-repeat: no-repeat;
 }
 
 .grid-3 {
   background-image: url(https://www.apple.com/v/home/bd/images/heroes/iphone-14/hero_iphone14_yellow__eun20sn4imi6_medium.jpg);
   height: 615px;
   object-fit: cover;
-
+  background-repeat: no-repeat;
 }
 
 /*bottom 6 grids*/
